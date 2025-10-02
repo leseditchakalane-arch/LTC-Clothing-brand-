@@ -1,2 +1,2 @@
-# LTC-Clothing-brand-
+# LTC-Clothing-brand
 Clothing brand 
